@@ -1,7 +1,14 @@
 ---
-Design Your Travel: This is a website created top help customize your dream travel.
+Design Your Travel: This is a website created to help customize your dream travel.
 ---
-## The index page
+## Main Topics
+- [[destinations/index|Destinations]]
+- [[budgeting-your-trip/index|Budgeting Your Trip]]
+- [[top-10-most-affordable-destinations-us/index|Top 10 Most Affordable Destinations: US]]
+- [[top-10-most-affordable-destinations-international/index|Top 10 most Affordable Destinations: International]]
+- [[blogs-guides-and-tips-101/index|Blogs, Guides, & Tips 101]]
+- [[plan-your-next-travel/index|Plan Your Next Travel]]
+
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
 
