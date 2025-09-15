@@ -18,6 +18,10 @@ You may even want to consider a car rental.
 
 After going through the steps of budgeting, my [[Accomadations|starting budget]] was $6k, and my final ultimate budget is $3,400. 
 
+> Life is either a daring adventure or nothing at all.
+
+\- Helen Keller
+
 
 
 
