@@ -12,8 +12,8 @@ Things you may need to consider to prepare for the activities may be:
 
 Before paying for activities and excursions, find a reasonable budget you are willing to spend for yourself or your family. Personally when I go on vacations I spend no more than $300, on activies and excursions. 
 
-## TIP OF THE DAY
-==Most of the time, booking activities online and in advance, are cheaper than booking at the activity site the day of!!==
+## **TIP OF THE DAY**
+==Most of the time, booking activities online and in advance, are cheaper than booking at the activity site the day of. This is the same for [[Transportation|booking flights]]!!==
 
 
 

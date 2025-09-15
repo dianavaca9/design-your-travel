@@ -6,3 +6,17 @@ All Inclusive Resort Example![[all-inclusive-resort-example.jpg]]
 
 
 
+
+
+If you dont have an all incusive hotel, you might have a hotel that offers free breakfast. You would then only budget lunch and dinner. 
+
+Or you may have an Airbnb. If this is the case, you have a fridge and a stove. You may want to consider purchasing groceries, if there is a lot of people. It doesn't have to be pricey either. The grocery costs could be split. 
+
+And last but not least if you are staying at a hostel and solo travel, the most cost effective food may be street vendors and or fast food places. 
+
+On average my fiance and i like to find new places to eat, including breakfast. I would avergae about $500.
+
+
+
+
+													Running Balance: $1,400

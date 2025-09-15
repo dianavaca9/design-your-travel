@@ -22,7 +22,7 @@ I am personally a big solo traveler, so depending on the time of year and averga
 
 
 
-												My Maximum Budget: $6,000
+												My Starting Budget: $6,000
 												My Running Balance: $600
 
 
