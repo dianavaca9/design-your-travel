@@ -13,6 +13,18 @@ You could get a hotel in the city, and only have breakfast included. You could a
 ### Hostels
 Hostels are rooms you share with other people. Think about college dorm rooms almost. These are perfect for solo travelers, backpackers etc. It is a low cost form of living, while traveling, as you can share these dormitories with other, or even have a private room to yourself as well. 
 
+I am personally a big solo traveler, so depending on the time of year and avergae location, a hotel for me and my fiance could be around $600 USD. We don't look for much in hotels, (of course when ==not== staying at a all inclusive resort) as we like to spend our entire time exploring the new destination we arrived at!
+
+
+
+
+
+
+
+
+												My Maximum Budget: $6,000
+												My Running Balance: $600
+
 
 
 
