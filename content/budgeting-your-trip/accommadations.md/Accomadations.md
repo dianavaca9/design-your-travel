@@ -16,6 +16,9 @@ Hostels are rooms you share with other people. Think about college dorm rooms al
 I am personally a big solo traveler, so depending on the time of year and avergae location, a hotel for me and my fiance could be around $600 USD. We don't look for much in hotels, (of course when ==not== staying at a all inclusive resort) as we like to spend our entire time exploring the new destination we arrived at!
 
 
+![[travelchecklist.pdf]]
+
+
 
 
 
