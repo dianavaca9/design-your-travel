@@ -1,6 +1,5 @@
----
-Design Your Travel: This is a website created to help customize your dream travel.
----
+# DESIGN YOUR TRAVEL
+
 ## Main Topics
 - [[destinations/index|Destinations]]
 - [[budgeting-your-trip/index.md/index 1|Budgeting Your Trip]]
@@ -36,14 +35,5 @@ Link: [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 iA Writer is a professional tool for writing documents using Markdown. It is a popular choice for serious writers wanting a distraction-free and high-quality writing and editing experience.
 
-Link: [https://ia.net/writer](https://ia.net/writer)
-
-### Text editors (free or paid)
-
-You can use any text editor capable of opening and editing Markdown files. 
-
----
-## Adding new pages
-
-You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
+Link: [https://ia.net/writer](https://ia.net
 
