@@ -2,7 +2,7 @@
 
 ## How do you know whats best for you?
 
-The First Step in budgeting your trip is knowing how many people are traveling with you, and where its is you need to find accommadation. Is it a big family vacation? Or is it a bachelorette party? Or maybe its just you and a friend or significant other. Or maybe you just enjoy traveling alone, and made this a solo trip. 
+The First Step in budgeting your trip is knowing how many people are traveling with you, and where its is you need to find accommodation. Is it a big family vacation? Or is it a bachelorette party? Or maybe its just you and a friend or significant other. Or maybe you just enjoy traveling alone, and made this a solo trip. 
 
 ### Airbnbs
 Knowing how many people you are bringing along is highly important as, you wouldn't book an entire Airbnb house just for 1 person. That might be a little on the pricier side. Now as for a  bachelorette party, an Airbnb house will be perfect! It could be cost effective, and split into everyone for a lower price per person, and just a more simple way of throwing a party, at the same place you are sleeping at!
