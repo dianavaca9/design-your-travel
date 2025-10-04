@@ -1,5 +1,8 @@
-DESIGN YOUR TRAVEL
-## Main Topics
+---
+title: design-your-travel
+---
+This website will help you construct and decide on the perfect destination of your dreams.
+## Main Topics:
 - [[destinations/index|Destinations]]
 - [[budgeting-your-trip/index.md/index 1|Budgeting Your Trip]]
 - [[Top 10 Most Affordable Destinations - USA|Top 10 Most Affordable Destinations: US]]
